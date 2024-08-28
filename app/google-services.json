@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206076756732",
+    "project_id": "android-picshare",
+    "storage_bucket": "android-picshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206076756732:android:c98bb9af7e3f4050f54d79",
+        "android_client_info": {
+          "package_name": "com.example.fontendpicshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-_t8nM1a-r2ZS3rhJI2-oE73LKRllsEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
